@@ -28,11 +28,10 @@ public class TwitterProducer {
     public TwitterProducer() {
     }
 
-    //"consumerKey", "consumerSecret", "token", "secret"
-    String consumerKey = "wi7Ap157RCAgSbpCLpTqK9L7c";
-    String consumerSecret = "PB1LoPHbP7psG6TgtUSRY8oDqPChBQwW0HN8R5PcsA3BQe3ETc";
-    String token = "3632838196-WTCCaxnaU3dcSNHsidasGRsw2fb5TknrfF1ydP6";
-    String secret = "yPLZ0KE5S9IvZHXnenqMPHWPv8cEF4XF0NNN7z5Sf76gI";
+    String consumerKey = "";
+    String consumerSecret = "";
+    String token = "";
+    String secret = "";
 
     public static void main(String[] args) {
 
